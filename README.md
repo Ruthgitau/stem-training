@@ -1,49 +1,58 @@
 # stem-training
 ## DAY ONE
+
  Learning markdown
 Installing python
 Opening a github account
 
 
-###DAY TWO
+### DAY TWO
+
 Manipulating data types
 Building a simple calculator using python
 
 
-####DAY THREE
+#### DAY THREE
+
 Boolean operations
 Simple calculator
 strings,integers,floats
 
 
-###DAY FOUR
+### DAY FOUR
+
 Lists
 list manipulation
 
 
-###DAY FIVE
+### DAY FIVE
+
 While loops
 control flow
 
 
-###DAY SIX
+### DAY SIX
+
 If statement
 else
 elif
 
 
-###DAY SEVEN
+### DAY SEVEN
+
 Tuples
 Sets
-
-
 Advanced calculator
-###DAY EIGHT
+
+
+### DAY EIGHT
+
 Dictionaries
 Editing texts
 
 
-###DAY NINE
+### DAY NINE
+
 Detecting errors
 Installing an ArduinoIDE
 Calculating mean 
