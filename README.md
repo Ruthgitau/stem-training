@@ -7,8 +7,11 @@ Opening a github account
 
 
 ### DAY TWO
-
-Manipulating data types
+# data types:
+integers-whole numbers
+floats-decimals
+strings
+# Manipulating data types
 Building a simple calculator using python
 
 
