@@ -34,28 +34,35 @@ While loops
 control flow
 
 
-### DAY SIX
+### WEEK TWO -DAY ONE
 
 If statement
 else
 elif
 
 
-### DAY SEVEN
+### DAY TWO
 
 Tuples
 Sets
 Advanced calculator
 
 
-### DAY EIGHT
+### DAY THREE
 
 Dictionaries
 Editing texts
 
 
-### DAY NINE
+### DAY FOUR
 
 Detecting errors
 Installing an ArduinoIDE
 Calculating mean 
+### DAY FIVE
+GUI -graphical userinterphase
+### WEEK THREE-DAY ONE
+OOP-0bject oriented progrmming
+### DAY TWO
+importing files
+math functions
