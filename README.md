@@ -66,3 +66,7 @@ OOP-0bject oriented progrmming
 ### DAY TWO
 importing files
 math functions
+### DAT THREE
+text inputs
+manipulating text inputs
+getting text inputs from the user
