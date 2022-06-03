@@ -70,3 +70,13 @@ math functions
 text inputs
 manipulating text inputs
 getting text inputs from the user
+### DAY FOUR
+File handling
+splitting strings
+exception handling
+-try
+-except
+-finally
+-else
+While loops...continue,break
+
