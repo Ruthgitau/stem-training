@@ -79,4 +79,8 @@ exception handling
 -finally
 -else
 While loops...continue,break
+### WEEK FOUR--DAY ONE
+installing pygame
+inputting a background on my pygame
+ibputting an icon on my pygame
 
